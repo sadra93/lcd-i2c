@@ -4,7 +4,7 @@ void setup() {lcd.init();
 lcd.backlight();
 lcd.setCursor(0, 0);
 lcd.clear();
-lcd.print("hrllo world");
+lcd.print("goodbye world");
 }
 
 void loop() {
